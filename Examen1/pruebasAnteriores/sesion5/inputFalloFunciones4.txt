@@ -1,0 +1,6 @@
+# No tienen :
+# Error: line 4:18 missing ':' at '{'
+
+def otraFuncion() { }
+
+def main(): { }

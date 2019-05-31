@@ -1,0 +1,16 @@
+
+# Global variables
+i,n,j:int;
+
+# Main program
+def main(): {
+
+	i=5;
+	j=6;
+	n=7;
+
+	(i<j) ? print i; : print j;;
+	(n<j) ? print i; : print j;;
+
+	n<j ? print i; : print j;; # Sin paréntesis también debería funcionar
+}

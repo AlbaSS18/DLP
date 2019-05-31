@@ -1,0 +1,6 @@
+# La función Main no es la última
+# Error que tiene que dar: line 5:0 mismatched input 'def ' expecting <EOF>
+
+def main(): { }
+
+def otraFuncion(): { } 

@@ -1,0 +1,21 @@
+
+i:int;
+
+def f(a:int):int {
+  a:double;						# Error 1 (variable ya definida)
+  return 34.5;				# Error 2 (devuelve un int)
+}
+
+def g(b:int, b:double): {	# Error 3 (b duplicada)
+  return 3;						# Error 4(no se debería retornar nada)
+}
+
+def g(): {					# Error 5(ya está definida)
+}
+
+def main(): {
+  f();       					# Error 6 (se espera que al menos tenga un parametro)
+  f(3.2);    					# Error 7 (parámetros incorrectos)
+  i = g();     					# Error 8 (que g no devuelve nada)
+}
+

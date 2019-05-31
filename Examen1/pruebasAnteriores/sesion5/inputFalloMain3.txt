@@ -1,0 +1,7 @@
+# La funcion main tiene tipo retorno diferente a void
+# Error: line 4:12 extraneous input 'int' expecting '{'
+
+def main(): int {
+
+
+}

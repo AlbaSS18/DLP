@@ -1,0 +1,8 @@
+# La funcion main tiene argumentos
+# Error: line 4:9 mismatched input 'args' expecting ')'
+
+def main(args int): {
+
+
+
+}

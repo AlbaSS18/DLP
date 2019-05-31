@@ -1,0 +1,6 @@
+# El return está vacío.
+# Error: line 5:8 mismatched input ';' expecting {'(', '-', '!', INT_CONSTANT, REAL_CONSTANT, CHAR_CONSTANT, ID}
+
+def main(): {
+	return ;
+}

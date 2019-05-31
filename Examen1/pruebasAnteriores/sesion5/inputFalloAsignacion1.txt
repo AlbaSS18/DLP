@@ -1,0 +1,6 @@
+# La asignación tiene solo un elemento.
+# Error: line 5:5 mismatched input ';' expecting {'(', '-', '!', INT_CONSTANT, REAL_CONSTANT, CHAR_CONSTANT, ID}
+
+def main(): {
+	a = ;
+}

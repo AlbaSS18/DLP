@@ -1,0 +1,7 @@
+# No tienen { }
+# Error: line 5:1 mismatched input 'print ' expecting {'{', 'int', 'char', 'double'}
+
+def otraFuncion(): 
+	print 't';
+
+def main(): { }

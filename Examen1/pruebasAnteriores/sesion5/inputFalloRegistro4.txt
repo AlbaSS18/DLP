@@ -1,0 +1,14 @@
+# Comprobar structs anidados
+# No tiene que dar error
+
+def main(): {
+	# Record
+  	pair: struct {
+    	integer: int;
+    	character: char;
+    	pair2: struct {
+    		integer: int;
+    		character: char;
+    	};
+    };  	
+}

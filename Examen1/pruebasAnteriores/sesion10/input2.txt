@@ -1,0 +1,9 @@
+i: int;
+
+def main(): {
+	a:int;
+	a=1;
+	i=2;
+	
+	print a&&i;
+}

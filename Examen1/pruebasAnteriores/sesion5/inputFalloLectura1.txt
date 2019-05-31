@@ -1,0 +1,8 @@
+# No están separadas por comas
+# Error: line 6:16 extraneous input '8' expecting {',', ';'}
+
+def main(): {
+  	  
+  	input (5&&7) 8;
+  	
+}

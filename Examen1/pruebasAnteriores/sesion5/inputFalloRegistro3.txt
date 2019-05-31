@@ -1,0 +1,9 @@
+# Los campos no son declarados como variables
+# Error: line 7:13 mismatched input '=' expecting ':'
+
+def main(): {
+	# Record
+  	pair: struct {
+    	integer = int;
+    };  	
+}

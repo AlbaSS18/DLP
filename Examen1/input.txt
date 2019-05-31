@@ -1,0 +1,10 @@
+
+# Global variables
+i,n,j:int;
+c,d:char;
+
+# Main program
+def main(): {
+	i = 5^5;
+}
+

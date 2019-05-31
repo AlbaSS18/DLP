@@ -1,0 +1,29 @@
+
+
+En el visit de FuncDefinition el accept recibe un p o un funcDefinition
+
+
+Pregunta 1:
+¿La implementación por defecto de suffix es lanzar una illegalStateException()?
+(Clase TypeAbstract-Paquete Types)
+
+Pregunta 2:
+¿El ValueCGVisitor debería tener un parámetro AddressCGVisitor y está bien creado?
+(Clase ValueCGVisitor-Paquete offsetgeneration)
+
+Pregunta 3:
+Clase OffsetVisitor.
+
+Pregunta 4:
+¿Está bien si pongo un getInputFile para la etiqueta source (Método visit(Program))?
+(Clase CodeGenerator-Paquete offsetgeneration)
+
+Pregunta 5:
+VarDefinition tiene que lanzar un null en vez de un IllegalStateException
+(Clase AbstractCGVisitor-Paquete src.offsetgeneration)
+
+Pregunta 6: 
+No me salen bien las direcciones de pushi. Creo que viene de la clase offsetVisitor
+
+Pregunta 7:
+Arreglar main

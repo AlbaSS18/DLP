@@ -1,0 +1,10 @@
+# No tiene {}
+# Error 1: line 8:5 missing '{' at 'integer'
+# Error 2: line 11:0 mismatched input '<EOF>' expecting ';'
+
+def main(): {
+	# Record
+  	pair: struct 
+    	integer: int;
+    	character: char;  	
+}

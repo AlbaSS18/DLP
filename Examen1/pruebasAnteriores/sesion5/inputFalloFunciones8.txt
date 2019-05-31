@@ -1,0 +1,8 @@
+# Las sentencias no terminan por ;
+# Error: line 6:0 mismatched input '}' expecting {',', ';'}
+
+def otraFuncion(): { 
+	print 't'
+}
+
+def main(): { }

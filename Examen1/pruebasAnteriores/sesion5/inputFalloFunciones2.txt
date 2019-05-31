@@ -1,0 +1,6 @@
+# No tienen identificador
+# Error: line 4:4 no viable alternative at input 'def ('
+
+def (): { }
+
+def main(): { }

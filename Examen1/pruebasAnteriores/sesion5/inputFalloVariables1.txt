@@ -1,0 +1,8 @@
+# Las variables no se separan por comas
+# Error: line 4:2 extraneous input 'n' expecting {':', ','}
+
+i n: int;
+
+def main(): {
+	
+}

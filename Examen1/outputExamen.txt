@@ -1,0 +1,37 @@
+
+#source	"input.txt"
+
+	' *	Type int i	(offset 0)
+	' *	Type int n	(offset 2)
+	' *	Type int j	(offset 4)
+	' *	Type char c	(offset 6)
+	' *	Type char d	(offset 7)
+
+' Invocation to the main function
+call main
+halt
+
+
+#line	7
+
+ main:	
+	' *	Parameters
+	' *	Local variables
+	enter	0
+
+#line	8
+	' *	Assignment
+	pusha	0
+	pushi	5
+	pushi	5
+	pushi	-1
+	muli
+	and	
+	pushi	5
+	pushi	-1
+	muli
+	pushi	5
+	and	
+	or	
+	storei
+	ret	0, 0, 0

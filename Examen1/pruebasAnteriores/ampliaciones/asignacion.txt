@@ -1,0 +1,21 @@
+
+# Global variables
+i,n,j:int;
+
+# Main program
+def main(): {
+
+	i=5;
+	j=6;
+	n=7;
+
+	i++;
+	i--;
+	print i;
+	
+	j+=4;
+	j-=4;
+	j*=4;
+	j/=4;
+	
+}

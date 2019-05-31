@@ -1,0 +1,6 @@
+# No tiene tipo simple (int,double,char)
+# Error: line 5:6 no viable alternative at input '(void'
+
+def main(): {
+	a = (void)7;
+}

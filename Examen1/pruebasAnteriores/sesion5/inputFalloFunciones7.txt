@@ -1,0 +1,15 @@
+# Las variables están al final. Las definiciones de variables no están al principio del cuerpo de la función.
+# Error: line 12:8 no viable alternative at input 'error:'
+
+def otraFuncion(): { 
+	real: double;
+  	c1, c2: char;  
+	c1 = (char)n;
+  	real = (double)c1 + (double)n + r;
+  	p(); # Invocation as a statement
+  	return (int)c1;
+  	
+  	error: double;
+}
+
+def main(): { }

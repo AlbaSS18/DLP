@@ -1,0 +1,4 @@
+# No hay función main
+# Error: line 4:23 extraneous input '<EOF>' expecting {'def ', ID}
+
+def otraFuncion(): { } 

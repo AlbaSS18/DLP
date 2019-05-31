@@ -1,0 +1,8 @@
+# Las variables no tienen :
+# Error: line 4:5 extraneous input 'int' expecting {':', ','}
+
+i, n int;
+
+def main(): {
+	
+}

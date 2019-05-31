@@ -1,0 +1,34 @@
+
+#source	"input.txt"
+
+	' *	TypeArray [size=10, type=Type double] v	(offset 0)
+
+' Invocation to the main function
+call main
+halt
+
+
+#line	4
+
+ main:	
+	' *	Parameters
+	' *	Local variables
+	' *	Type double value	(offset -4)
+	' *	Type int i	(offset -6)
+	' *	Type int j	(offset -8)
+	' *	TypeArray [size=4, type=TypeArray [size=5, type=Type int]] w	(offset -48)
+	' *	TypeRecord [listFields=[Field [name=day, tipo=Type int], Field [name=month, tipo=Type int], Field [name=year, tipo=Type int]]] date	(offset -54)
+	enter	54
+
+#line	12
+	' *	Read
+	push	bp
+	pushi	-54
+	addi
+	pushi	0
+	addi
+	ini
+	storei
+
+#line	13
+	' *	Assignment
