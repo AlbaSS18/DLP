@@ -14,7 +14,7 @@ import offsetgeneration.ExecuteCGVisitor;
 import offsetgeneration.OffsetVisitor;
 
 public class Main {
-	
+	 
 	public static void main(String... args) throws Exception {
 		   if (args.length<2) {
 		        System.err.println("Please, pass me the input file.");
