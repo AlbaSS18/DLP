@@ -1,0 +1,6 @@
+# No tienen ()
+# Error: line 4:15 mismatched input ':' expecting '('
+
+def otraFuncion: { }
+
+def main(): { }

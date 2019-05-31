@@ -1,0 +1,12 @@
+# If tiene que tener alguna sentencia obligatoriamente
+# Error 1 : line 10:4 no viable alternative at input 'if pair.integer==vector[0][0]||!(int)pair.character||i%2==0:{}'
+# Error 2 : line 8:68 mismatched input ':' expecting '='
+# Error 3 : line 12:0 extraneous input '}' expecting <EOF>
+
+def main(): {
+  	  
+  	if pair.integer == vector[0][0] || !(int)pair.character || i%2==0:{
+      	
+    }
+  	
+}

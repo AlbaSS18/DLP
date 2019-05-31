@@ -1,0 +1,6 @@
+# No termina con ;
+# Error: line 6:0 missing ';' at '}'
+
+def main(): {
+	a = 6
+}

@@ -1,0 +1,8 @@
+# El caracter tiene signo
+# Error 1: line 5:7 token recognition error at: ''+p'
+# Error 2: line 5:10 token recognition error at: '';\r'
+# Error 3: line 6:0 mismatched input '}' expecting {'(', '-', '!', INT_CONSTANT, REAL_CONSTANT, CHAR_CONSTANT, ID}
+
+def main(): {
+	input '+p';
+}

@@ -1,0 +1,48 @@
+CUESTIÓN 1:
+/*
+	 * Execute --> Sentences, Program, Definition
+	 * Value --> Expresiones
+	 * Address --> LValue
+*/
+
+CUESTIÓN 2:
+Visitor a tocar:
+	1. Interfaz visitor --> añades nueva clase (Para el doWhile tocaste aquí)
+	2. Abstract Visitor --> recorres hijos (Para el doWhile tocaste aquí)
+	3. Lvalue
+	4. Identification
+	5. TypeChecking
+	6. Offset
+	7. Abstract Visitor (Para el doWhile tocaste aquí)
+	8. Execute (Para el doWhile tocaste aquí)
+	9. Value
+	10. Address
+
+CUESTIÓN 3:
+	ExpressionUnary es -
+	ExpressionNegation es !
+
+CUESTIÓN 4:
+	Para el compile.cmd	
+		ExternalToolsConfiguration
+		Program, New
+		MAIN:	En Location --> el cmd de compile
+			En directory --> el lab
+		REFRESH: Clicar en Refresh resources...
+		Apply
+
+	Para el MAPL.cmd 
+		ExternalToolsConfiguration
+		Program, New
+		MAIN:	En Location --> el cmd de MAPL.cmd
+			En directory --> el lab
+		REFRESH: Clicar en Refresh resources...
+		Apply
+CUESTIÓN 5: 
+	Cada vez que hagas un cambio nuevo en el pmm, clicas en el maletín.
+
+CUESTIÓN 6:
+	El método getSize de los tipos tú lo llamaste getSizeOfType
+
+CUESTIÓN 7:
+	Si te peta por un null, mira a ver que no te falten sitios vacíos. Tienes que devolver algo.

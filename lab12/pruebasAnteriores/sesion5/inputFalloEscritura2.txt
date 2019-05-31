@@ -1,0 +1,6 @@
+# No tiene expresiones
+# Error: line 5:7 mismatched input ';' expecting {'(', '-', '!', INT_CONSTANT, REAL_CONSTANT, CHAR_CONSTANT, ID}
+
+def main(): {
+	print ;
+}

@@ -1,0 +1,10 @@
+# Permite typedef
+# Error: line 6:11 no viable alternative at input 'typedefstruct'
+
+def main(): {
+	# Record
+  	typedef struct {
+    	integer: int;
+    	character: char;
+    };  	
+}

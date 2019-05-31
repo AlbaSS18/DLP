@@ -1,0 +1,8 @@
+# Las variables no terminan por ;
+# Error: line 6:0 missing ';' at 'def '
+
+i, n : int
+
+def main(): {
+	
+}

@@ -1,0 +1,7 @@
+# No tienen la palabra def
+# Error: line 4:11 mismatched input '(' expecting {':', ','}
+
+otraFuncion(): { }
+
+def main(): { }
+

@@ -1,0 +1,6 @@
+# No termina con ;
+# Error: line 6:0 extraneous input '}' expecting {',', ';'}
+
+def main(): {
+	print 't' , 'e'
+}

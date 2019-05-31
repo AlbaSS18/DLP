@@ -1,0 +1,10 @@
+# Tiene identificador
+# Error: line 6:5 no viable alternative at input 'tstruct'
+
+def main(): {
+	# Record
+  	t struct {
+    	integer: int;
+    	character: char;
+    };  	
+}

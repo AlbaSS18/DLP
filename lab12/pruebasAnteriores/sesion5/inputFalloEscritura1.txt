@@ -1,0 +1,6 @@
+# No están separadas por comas
+# Error: line 5:11 extraneous input ''e'' expecting {',', ';'}
+
+def main(): {
+	print 't' 'e';
+}

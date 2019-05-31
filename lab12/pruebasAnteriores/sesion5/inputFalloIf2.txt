@@ -1,0 +1,11 @@
+# If tiene obligatoriamente else
+# No tiene que dar error porque el else es opcional
+
+def main(): {
+  	  
+  	if pair.integer == vector[0][0] || !(int)pair.character || i%2==0:{
+      	print 't', 'r', 'u', 'e', '\n';
+      	input 't', 'r', 'u', 'e', '\n';
+    }
+  	
+}

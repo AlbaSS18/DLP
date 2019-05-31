@@ -1,0 +1,10 @@
+# No tiene que dar error
+
+def main(): {
+  	  
+  	i=0;
+  	j=0;
+  	while (i<10) :{ 
+		i=i+1;
+  	}
+}

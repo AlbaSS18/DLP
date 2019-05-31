@@ -1,0 +1,7 @@
+# La asignación tiene solo un elemento.
+# Error 1: line 6:2 extraneous input '=' expecting {'(', '}', 'if ', 'while ', 'print ', 'input ', 'return', '-', '!', INT_CONSTANT, REAL_CONSTANT, CHAR_CONSTANT, ID}
+# Error 2: line 6:5 mismatched input ';' expecting '='
+
+def main(): {
+	 = 8;
+}

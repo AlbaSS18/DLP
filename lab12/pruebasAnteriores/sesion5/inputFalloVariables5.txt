@@ -1,0 +1,8 @@
+# La definición de variables no tiene al menos un elemento
+# Error: line 4:0 mismatched input ':' expecting {'def ', ID}
+
+: int;
+
+def main(): {
+	
+}

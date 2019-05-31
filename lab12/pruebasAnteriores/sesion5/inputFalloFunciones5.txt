@@ -1,0 +1,6 @@
+# El tipo de los parámetros o de retorno no es simple
+# Error: line 4:19 extraneous input 'void' expecting {'{', 'int', 'char', 'double'}
+
+def otraFuncion(): void { }
+
+def main(): { }

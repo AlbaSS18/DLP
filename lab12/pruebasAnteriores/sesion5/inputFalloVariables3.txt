@@ -1,0 +1,8 @@
+# Las variables no tienen tipo
+# Error: line 4:7 mismatched input ';' expecting {'[', 'struct', 'void', 'int', 'char', 'double'}
+
+i, n : ;
+
+def main(): {
+	
+}
