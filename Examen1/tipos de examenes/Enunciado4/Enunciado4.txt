@@ -1,0 +1,21 @@
+Implementar XOR.
+
+Ejemplo: A XOR B = A AND !B OR !A AND B
+
+Entrada:	Salida:
+0 xor 0		0
+1 XOR 0		1
+0 xor 45	1
+23 XOR 3	0
+
+false = 0
+true = distinto de 0
+
+Para verlo en una tabla: https://cdn-images-1.medium.com/max/1600/0*LYlt6CZJHOJkNRHJ.
+
+Solución:
+0
+1
+1
+0
+0

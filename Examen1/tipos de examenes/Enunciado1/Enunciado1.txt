@@ -1,0 +1,14 @@
+Implementar +=
+Implementar -=
+Implementar *=
+Implementar /=
+
+* Probar si se puede asignar a la izquierda una cosa que no es variable
+* Probar a asignar dos tipos diferentes
+* Probar a poner la operacion como algo que no es una sentencia (expresion)
+
+* Probar todas las operaciones posibles
+
+* Solución = 43226220k
+
+

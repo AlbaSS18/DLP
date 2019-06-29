@@ -1,0 +1,45 @@
+
+# Global variables
+i:int;
+c:char;
+d:double;
+
+f:[10]int;
+
+pair:struct { 
+	real:double;
+	character:char;
+};
+
+def main(): {
+	a,b:double;
+
+	pair.character = '\n';
+	pair.real = 1.1;
+	a= 2.2;
+	b=3.3;
+
+	i = 0;
+	while(i < 10): {
+		f[i] = i*i;
+		i = i +1;
+	}
+	
+	i = (f[9], f[3], (int)b)/;
+	print i; # = 3
+	print pair.character;
+    
+	d = (pair.real, a, b*(double)pair.character, (double)f[4])+;
+	print d; # =52.3
+	print pair.character;
+	
+	c = 'A';
+	i = (3,(int)a+5,(int)pair.real, f[5])*;
+	print i; # = 525
+	print pair.character;
+	
+	c = 'z';
+	i = (c, (char)(pair.character * (char)5), (char)b, '!')-;
+	print (char)i; # = $
+}
+

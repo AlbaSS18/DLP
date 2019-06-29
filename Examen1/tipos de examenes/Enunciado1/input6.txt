@@ -1,0 +1,36 @@
+
+# Global variables
+i,n,j:int;
+c,d:char;
+
+# Main program
+def main(): {
+	i:int;
+	
+	i = 1;
+	j = 2;
+	n = 3;
+	
+	i += n;
+	print i; # =4
+	print n; # =3
+	
+	i /= j;
+	print i; # =2
+	print j; # =2
+	
+	n *= j;
+	print n; # =6
+	print j; # =2
+	
+	j -= i;
+	print i; # =2
+	print j; # =0
+	
+	c = 'a';
+	d = '\n';
+	
+	c += d;
+	print c; # =k
+}
+

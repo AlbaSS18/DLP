@@ -1,0 +1,38 @@
+c:char;
+
+t:struct { 
+	integer:int;
+	character:char;
+	real:double;
+};
+
+def allXOR(): {
+	print 0 xor 0; # = 0
+	print c;
+	
+	print 1 XOR 0; # = 1
+	print c;
+	
+	print 0 xor 45; # = 1
+	print c;
+	
+	print 23 XOR 3; # = 0
+	print c;
+}
+
+def difficult():int {
+    t.integer = 1;
+    t.character = 'z';
+    t.real = 0.7;
+    
+    return (int)(t.real * (double)t.character) xor t.integer xor t.integer-1; # = 0
+}
+
+def main(): {
+	c = (char)10;
+
+	allXOR();
+	
+	print difficult(); # = 0
+}
+

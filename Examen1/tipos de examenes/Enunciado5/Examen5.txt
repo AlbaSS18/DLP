@@ -1,0 +1,9 @@
+Implementar do while.
+
+* Comprobar que la expresión de la sentencia do while
+  es una expresión lógica.
+
+Solución:
+La tabla de multiplicar del número que se especifique
+en la variable 'j'.
+Si no se cambia imprime la tabla de multiplicar del 3.

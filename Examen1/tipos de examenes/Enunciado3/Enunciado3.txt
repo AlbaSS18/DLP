@@ -1,0 +1,13 @@
+Implementar operaciones compuestas poniendo los operandos entre paréntesis.
+Ejemplo: (3,a+5,b,c.edad,f[5])* = 3*(a+5)*b*c.edad*f[5]
+
+- Comprobar que no se le puede asignar nada
+- Comprobar que no se puede realizar la operación entre tipos distintos
+
+- Probar todas las operaciones
+
+SOLUCION:
+3
+52,3
+525
+$

@@ -1,0 +1,4 @@
+Implementar ++ y --;
+
+* Comprobar que no se puede incrementar algo que no sea 'modificable' (LValue)
+* Comprobar que solo se pueden realizar incrementos de int y double
